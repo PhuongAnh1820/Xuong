@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "name": "Product 2",
+      "price": 19.99,
+      "categoryId": 1,
+      "description": "This is product 2",
+      "discount": 0.1,
+      "quantity": 50,
+      "featured": true,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": 5.99,
+      "image": "https://picsum.photos/id/12/300/300",
+      "description": "This is product 3",
+      "discount": 0,
+      "quantity": 200,
+      "featured": true,
+      "categoryId": 1
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "price": 14.99,
+      "image": "https://picsum.photos/id/13/300/300",
+      "description": "This is product 4",
+      "discount": 0.2,
+      "quantity": 75,
+      "featured": true,
+      "categoryId": 2
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "price": 9.99,
+      "image": "https://picsum.photos/id/14/300/300",
+      "description": "This is product 5",
+      "discount": 0,
+      "quantity": 150,
+      "featured": false
+    },
+    {
+      "id": "6",
+      "name": "Product 6",
+      "price": 7.99,
+      "image": "https://picsum.photos/id/15/300/300",
+      "description": "This is product 6",
+      "discount": 0.15,
+      "quantity": 100,
+      "featured": false
+    },
+    {
+      "id": "7",
+      "name": "Product 7",
+      "price": 12.99,
+      "image": "https://picsum.photos/id/16/300/300",
+      "description": "This is product 7",
+      "discount": 0,
+      "quantity": 50,
+      "featured": true
+    },
+    {
+      "id": "8",
+      "name": "Product 8",
+      "price": 17.99,
+      "image": "https://picsum.photos/id/17/300/300",
+      "description": "This is product 8",
+      "discount": 0.1,
+      "quantity": 80,
+      "featured": true
+    },
+    {
+      "name": "san pham 90 edit",
+      "price": "20",
+      "categoryId": 1,
+      "description": "mo ta san pham edit",
+      "discount": "1",
+      "quantity": "1",
+      "featured": true,
+      "id": "d89d"
+    },
+    {
+      "name": "hêlooo",
+      "price": "9hdhhd",
+      "categoryId": 2,
+      "description": "q",
+      "discount": "20",
+      "quantity": "20",
+      "id": "8cb5"
+    },
+    {
+      "name": "hhh edit",
+      "price": "99",
+      "categoryId": 2,
+      "description": "88",
+      "discount": "999",
+      "quantity": "90",
+      "id": "0a79"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Danh mục 1"
+    },
+    {
+      "id": "2",
+      "name": "Danh mục 2"
+    },
+    {
+      "name": "ddd",
+      "id": "3"
+    },
+    {
+      "name": "Quan bo update ",
+      "id": "5518"
+    },
+    {
+      "id": "f14c",
+      "name": "Name"
+    },
+    {
+      "id": "40b6",
+      "name": "Danh mục như thế nào đây"
+    }
+  ]
+}
